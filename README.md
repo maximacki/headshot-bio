@@ -25,14 +25,15 @@ She has worked across a range of organisations and roles, including the World He
 
 ## Headshot
 
-Download it here https://github.com/maximacki/headshot-bio/blob/master/Maxine%20Mackintosh%20Headshot.jpg
+[Download it here](https://github.com/maximacki/headshot-bio/blob/master/Maxine%20Mackintosh%20Headshot.jpg)
 
 ## Relevant Links
 
-[Twitter](https://twitter.com/Maxi_Macki)
-[LinkedIn](https://www.linkedin.com/in/maxinemackintosh/)
-[Academic webpage](https://www.turing.ac.uk/people/researchers/maxine-mackintosh)
-[ORCID](https://orcid.org/0000-0003-3740-1302)
+- [Twitter](https://twitter.com/Maxi_Macki)
+- [LinkedIn](https://www.linkedin.com/in/maxinemackintosh/)
+- [Academic webpage](https://www.turing.ac.uk/people/researchers/maxine-mackintosh)
+- [ORCID](https://orcid.org/0000-0003-3740-1302)
+- [GitHub](https://github.com/maximacki)
 
-Academic email
-One HealthTech email 
+- [Academic email](mailto:mmackintosh@turing.ac.uk)
+- [One HealthTech email](mailto:maxine@onehealthtech.com)

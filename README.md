@@ -25,7 +25,7 @@ She has worked across a range of organisations and roles, including the World He
 
 ## Headshot
 
-[Download it here](https://github.com/maximacki/headshot-bio/blob/master/Maxine%20Mackintosh%20Headshot.jpg)
+[Download it here](https://raw.githubusercontent.com/maximacki/headshot-bio/master/Maxine%20Mackintosh%20Headshot.jpg)
 
 ## Relevant Links
 

@@ -4,6 +4,14 @@ If you need my bio, headshot or relevant links for events, activities or attribu
 
 ## Bio 
 
+### Job titles
+
+Academic job title: Research Associate
+Organisations: Alan Turing Institute, The Health Foundation, University of Oxford
+
+Full job title: Research Associate & Co-Founder
+Organisations: Alan Turing Institute [omit if necessary: The Health Foundation, University of Oxford] & One HealthTech
+
 ### <50 words 
 Maxine is a Research Associate at Alan Turing Institute, The Health Foundation and the University of Oxford, working on machine learning in health. She is also the Co-Founder of One HealthTech, a large community supporting diversity in health innovation.
 
@@ -15,4 +23,16 @@ Maxine is a Research Associate working between the Alan Turing Institute, The He
 
 She has worked across a range of organisations and roles, including the World Health Organisation on artificial intelligence policy, L'Oreal's scientific team, technology strategy in Roche Diagnostics and as a Churchill Fellow where she visited the US and East Africa to understand more about the health innovation landscape. She is part of a number of communities and committees including the World Economic Forum’s Global Shapers, and the British Computer Society (Health Exec) and previously, she sat on the DeepMind Health Independent Review Board. She also really really likes fancy dress.
 
+## Headshot
 
+Download it here https://github.com/maximacki/headshot-bio/blob/master/Maxine%20Mackintosh%20Headshot.jpg
+
+## Relevant Links
+
+[Twitter](https://twitter.com/Maxi_Macki)
+[LinkedIn](https://www.linkedin.com/in/maxinemackintosh/)
+[Academic webpage](https://www.turing.ac.uk/people/researchers/maxine-mackintosh)
+[ORCID](https://orcid.org/0000-0003-3740-1302)
+
+Academic email
+One HealthTech email 

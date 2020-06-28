@@ -7,6 +7,7 @@ If you need my bio, headshot or relevant links for events, activities or attribu
 ### Job titles
 
 Academic job title: Research Associate
+
 Organisations: Alan Turing Institute, The Health Foundation, University of Oxford
 
 Full job title: Research Associate & Co-Founder

@@ -12,7 +12,7 @@ Organisation: Genomics England
 
 Full job title: Programme Lead for Diverse Data & Co-Founder
 
-Organisations: Genomiocs England & One HealthTech
+Organisations: Genomics England & One HealthTech
 
 ### Short bio
 Maxine is the Programme Lead for Diverse Data at Genomics England, an initiative which aims to improve the representativeness of genetic datasets and fairness of genomic insights. She is also the Co-Founder of One HealthTech, a large community supporting diversity in health innovation.

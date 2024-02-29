@@ -7,9 +7,11 @@ If you need my bio, headshot or relevant links for events, activities or attribu
 ### Job titles
 
 Primary Job title: Co-Founder
+
 Primary Organisation: One HealthTech
 
 Full Job Title: Co-Founder & Researcher
+
 Full List of Organisations: One HealthTech & Data Science for Health Equity, Alan Turing Institute 
 
 ### Short bio (70 words)

@@ -6,7 +6,7 @@ If you need my bio, headshot or relevant links for events, activities or attribu
 
 ### Job titles
 
-Primary Job title: Co-Founder
+Primary Job title: Co-Founder & Co-Director
 
 Primary Organisation: One HealthTech
 
@@ -34,6 +34,7 @@ Maxine has worked across a range of organisations and roles, including the World
 
 ## Relevant Links
 
+- [Bluesky](https://bsky.app/profile/maxi-macki.bsky.social)
 - [Twitter](https://twitter.com/Maxi_Macki)
 - [LinkedIn](https://www.linkedin.com/in/maxinemackintosh/)
 - [ORCID](https://orcid.org/0000-0003-3740-1302)

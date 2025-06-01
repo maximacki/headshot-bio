@@ -6,27 +6,42 @@ If you need my bio, headshot or relevant links for events, activities or attribu
 
 ### Job titles
 
-Primary Job title: Co-Founder & Co-Director
+Primary:
+Consultant
+Ellison Institute of Technology – Pathogena
 
-Primary Organisation: One HealthTech
+Full: 
+Consultant, Ellison Institute of Technology – Pathogena
+Co-Founder & Co-Director, One HealthTech
+Co-Founder & Chair, Data Science for Health Equity
+Affiliate Researcher, University of Oxford & Alan Turing Institute
 
-Full Job Title: Co-Founder & Researcher
-
-Full List of Organisations: One HealthTech & Data Science for Health Equity, Alan Turing Institute 
-
-### Short bio (70 words)
-Maxine's work lies at the intersection of data science and AI, equity and diversity, and health and genomics. She is the Co-Founder of two communities: One HealthTech, a global distributed community supporting diversity in health innovation, and Data Science for Health Equity which looks to make use of the best approaches in data science to drive health equity. She is also a researcher at the Alan Turing Institute. Prior to this she set up and led a national programme to improve genomic data diversity in the UK. 
-
-### Medium-length bio (207 words)
-Maxine's work lies at the intersection of data science and AI, equity and diversity, and health and genomics. She is the co-founder of One HealthTech – a global, volunteer-led, grassroots community that supports and promotes under-represented groups in health innovation. OHT has over 20,000 contributors worldwide across 10 Hubs which have collectively delivered over 1000 events, projects, campaigns and initiatives improving diversity in healthtech. She also co-founded Data Science for Health Equity, a community of practice that brings together those with expertise in data science and health inequalities to connect and collaborate on cutting-edge domains in health. Maxine is also affiliated to the Alan Turing Institute where her research primarily looks at issues and opportunities of fairness and equity in AI and health. Prior to this, Maxine set up and lead the Diverse Data initiative at Genomics England, which aimed to improve the diversity of the genetic data in the UK through a range of community engagement, analysis and data-generation efforts. She has been part of a number of communities and committees including being a current Sciana Fellow, and previously a Non-Executive Director for the Eastern Academic Health Science Network, a member of the World Economic Forum’s Global Shapers, and the British Computer Society (Health Exec) and the DeepMind Health Independent Review Board. She also really really likes fancy dress.
+### Short bio (<100 words)
+Maxine works at the Ellison Institute of Technology, supporting strategy and delivery across global health data activities within EIT Pathogena. Alongside her role, she leads two global communities — One HealthTech and Data Science for Health Equity — and continues academic work with the University of Oxford and the Alan Turing Institute. Her work spans research, delivery and community building, with a focus on making health innovation more inclusive, practical and grounded in how systems actually work. She's especially drawn to complex challenges that sit between disciplines — and enjoys finding collaborative, thoughtful ways through them.
 
 
-### Long bio (407 words)
-Maxine's work lies at the intersection of data science and AI, equity and diversity, and health and genomics. She is the co-founder of One HealthTech – a global, volunteer-led, grassroots community that supports and promotes under-represented groups in health innovation. OHT has over 10,000 contributors worldwide across 10 Hubs which have collectively delivered over 1000 events, projects, campaigns and initiatives improving diversity in healthtech. She also co-founded Data Science for Health Equity, a community of practice that brings together those with expertise in data science and health inequalities to connect and collaborate on cutting-edge data challenges affecting equity in health including statistical methods, participatory research and clinical trials. Maxine is also affiliated to the Alan Turing Institute where her research primarily looks at issues and opportunities of fairness and equity in AI and health. Prior to this, Maxine set up and lead a new £25m initiative called Diverse Data at Genomics England which aimed to improve the diversity of the genetic data in the UK through a range of community engagement, analysis and data-generation efforts. 
+### Medium-length bio (~250 words)
+Maxine works at the Ellison Institute of Technology, where she supports strategy and delivery across a range of global health data activities within EIT Pathogena. Her work focuses on making data more useful, inclusive and implementable within complex health systems. 
+Outside of this role, Maxine is a long-time community builder and researcher. She founded One HealthTech, a grassroots organisation promoting diversity and inclusion in health innovation, and co-founded Data Science for Health Equity, a global community of practice focused on using the most effective data science approaches to advance health equity. She also holds academic affiliations with the University of Oxford and the Alan Turing Institute, where her research explores the responsible use of health data — particularly for underrepresented groups and underexplored contexts.
+Previously, Maxine led the £25M Diverse Data Programme at Genomics England, and has worked with organisations including the World Health Organization, Roche Diagnostics and The Health Foundation. She holds a PhD in health data science from UCL, and degrees in health policy and biomedical science from LSE, LSHTM and UCL.
+She’s especially interested in work that cuts across systems and sectors — and in helping move it forward with clarity, collaboration and as much joy as is reasonably possible. She also really, really likes fancy dress.
 
-Maxine's academic background has included a BSc in Biomedical Science (Neuroscience & Pharmacology) at UCL, an MSc in Health Policy, Planning and Financing (Health Economics) at LSE & LSHTM and a PhD on the use of machine learning in primary care electronic health records to identify early signs of dementia. She subsequently completed a Postdoc working between the Alan Turing Institute, The Health Foundation and the University of Oxford, where she worked on how consumer data could be used to understand health and its determinants. 
+### Long bio (~500 words)
+Maxine works at the Ellison Institute of Technology, where she supports the strategy and delivery of global health data activities within EIT Pathogena — a major programme addressing infectious disease innovation. Her focus is on ensuring that data and AI are used in ways that are not only technically robust but also inclusive, implementable, and grounded in the messy realities of health systems.
 
-Maxine has worked across a range of organisations and roles, including the World Health Organisation on artificial intelligence policy, L'Oreal's scientific team, technology strategy in Roche Diagnostics and as a Churchill Fellow where she visited the US and East Africa to understand more about the health innovation landscape. She has been part of a number of communities and committees including being a current Sciana Fellow, and previously has been a Non-Executive Director for the Eastern Academic Health Science Network, a member of the World Economic Forum’s Global Shapers and the British Computer Society (Health Exec), and was on the board the DeepMind Health Independent Review Board. She also really really likes fancy dress.
+Beyond her role at EIT, Maxine is a long-time community builder and researcher, committed to collaboration across disciplines, sectors and geographies. She is the founder of One HealthTech, a grassroots community that supports diverse leadership in health innovation, and the co-founder of Data Science for Health Equity (DSxHE), a global community of practice advancing equity in health data science. These communities create spaces where inclusion is embedded into the infrastructure of innovation — not treated as an afterthought — and where technical rigour and social impact go hand in hand.
+
+Maxine also holds research affiliations with the University of Oxford, the Alan Turing Institute and the Centre for Personalised Medicine. Her research focuses on how AI and health data is used — and misused — particularly in underrepresented populations and overlooked contexts. She’s especially interested in where ethical, technical and systemic challenges collide, and how research can support more responsible, equitable innovation in practice.
+
+Prior to joining EIT, Maxine led the £25M Diverse Data Programme at Genomics England — one of the largest national efforts to embed equity into genomic research, policy and infrastructure. In that role, she shaped community engagement models, analysis pipelines and institutional collaborations aimed at making the UK’s genomic ecosystem more representative and impactful. Earlier in her career, she worked with the World Health Organisation on AI policy, supported innovation strategy at Roche Diagnostics, and contributed to health data research at NHS England and The Health Foundation.
+
+Her academic background spans science and policy: she holds a PhD in health data science from UCL, where her thesis applied machine learning to electronic health records to detect early signs of dementia, and MSc degrees in health policy from LSE and LSHTM, alongside a BSc in biomedical sciences from UCL.
+
+Maxine has contributed to national conversations on health and technology across outlets including BBC News, Radio 4’s Today Programme, Wired, Sifted and the Financial Times. Her work has been recognised by Forbes 30 Under 30, Computer Weekly’s Most Influential Women in UK Tech (multiple years), and a range of other awards for leadership in digital health. She has held governance and advisory roles with DeepMind Health’s Independent Review Board, the British Computer Society and Eastern AHSN. She is also an Associate Editor at BMJ AI and Digital Health, and a Fellow of the Sciana Health Leaders Network.
+
+Whether she’s working on strategy, science or systems, Maxine tries to bring curiosity, energy and care to her work. She’s drawn to challenges that call for systems leadership — those that need collaboration across disciplines, institutions and perspectives. She aims to use joy and levity to work through complex issues. She also really, really likes fancy dress.
+
+
 
 ## Headshot
 
@@ -34,8 +49,6 @@ Maxine has worked across a range of organisations and roles, including the World
 
 ## Relevant Links
 
-- [Bluesky](https://bsky.app/profile/maxi-macki.bsky.social)
-- [Twitter](https://twitter.com/Maxi_Macki)
 - [LinkedIn](https://www.linkedin.com/in/maxinemackintosh/)
 - [ORCID](https://orcid.org/0000-0003-3740-1302)
 - [GitHub](https://github.com/maximacki)

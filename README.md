@@ -7,13 +7,16 @@ If you need my bio, headshot or relevant links for events, activities or attribu
 ### Job titles
 
 Primary:
-Consultant
-Ellison Institute of Technology – Pathogena
+Consultant, Ellison Institute of Technology – Pathogena
 
 Full: 
+
 Consultant, Ellison Institute of Technology – Pathogena
+
 Co-Founder & Co-Director, One HealthTech
+
 Co-Founder & Chair, Data Science for Health Equity
+
 Affiliate Researcher, University of Oxford & Alan Turing Institute
 
 ### Short bio (<100 words)
